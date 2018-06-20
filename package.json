@@ -1,0 +1,23 @@
+{
+  "name": "cordova-plugin-amazon-login-ka",
+  "version": "1.0.0",
+  "description": "Amazon login",
+  "cordova": {
+    "id": "cordova-plugin-amazon-login-ka",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+  ],
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
