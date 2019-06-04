@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android"
-        id="cordova-plugin-amazon-login-ka" version="1.0.1">
+        id="cordova-plugin-amazon-login-ka" version="1.0.2">
     <name>Amazon Login</name>
     <description>Amazon Login</description>
     <license>MIT</license>
@@ -30,7 +30,7 @@
             </activity>
         </config-file>
 
-        <config-file target="config.xml" parent="/*">
+        <config-file target="res/xml/config.xml" parent="/*">
             <feature name="AmazonLoginPlugin">
                 <param name="android-package" value="com.kanoapps.cordova.amazonlogin.AmazonLoginPlugin"/>
             </feature>
