@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android"
-        id="cordova-plugin-amazon-login-ka" version="1.0.2">
+        id="cordova-plugin-amazon-login-ka" version="1.0.3">
     <name>Amazon Login</name>
     <description>Amazon Login</description>
     <license>MIT</license>
@@ -37,6 +37,5 @@
         </config-file>
         <source-file src="src/android/AmazonLoginPlugin.java" target-dir="src/com/kanoapps/cordova/amazonlogin" />
         <source-file src="src/android/login-with-amazon-sdk.jar" target-dir="libs" />
-        <source-file src="src/android/api_key.txt" target-dir="assets" />
     </platform>
 </plugin>
