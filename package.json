@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-amazon-login-ka",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Amazon login",
   "cordova": {
     "id": "cordova-plugin-amazon-login-ka",
